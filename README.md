@@ -25,3 +25,5 @@ markdown = "0.3"
 - refacto code (if necessary)
 
 - upgrade with plugins for minifying, CSS
+
+- add a flake.nix to specify the code's dependencies
